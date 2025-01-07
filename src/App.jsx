@@ -8,7 +8,8 @@ const App = () => {
         <Link to="/login">Login</Link>
       </nav>
       <nav>  
-        <Link to="/signup">Signup</Link>
+        <Link to="/signup">register
+      </Link>
       </nav>
     </div>
   );
